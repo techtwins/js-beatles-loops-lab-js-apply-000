@@ -31,9 +31,9 @@ function iLoveTheBeatles(count){
 
   var i = 0
   do {
-    text[i] = 'I love the Beatles!'
+    a[i] = 'I love the Beatles!'
     i++;
   } while (i <= count);
 
-  return text;
+  return a;
 }
